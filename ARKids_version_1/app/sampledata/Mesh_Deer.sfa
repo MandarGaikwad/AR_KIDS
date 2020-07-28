@@ -1,0 +1,50 @@
+{
+  materials: [
+    {
+      name: 'lambert2SG',
+      parameters: [
+        {
+          baseColor: 'Tex_Deer',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/Mesh_Deer.obj',
+    name: 'Mesh_Deer',
+    recenter: 'root',
+    scale: 0.024836,
+  },
+  samplers: [
+    {
+      file: 'sampledata\\Tex_Deer.png',
+      name: 'Tex_Deer',
+      pipeline_name: 'Tex_Deer.png',
+    },
+  ],
+  version: '0.54:2',
+}

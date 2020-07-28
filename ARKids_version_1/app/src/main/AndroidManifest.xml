@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mandar.gaikwad.arkids_version_1">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!--
+ This tag indicates that this application requires ARCore.  This results in the application
+         only being visible in the Google Play Store on devices that support ARCore.
+    -->
+    <uses-feature
+        android:name="android.hardware.camera.ar"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".SignPad" />
+        <activity android:name=".Animals" />
+        <activity android:name=".Wild" />
+        <activity android:name=".Domestic" />
+        <activity android:name=".ARcoreCat" />
+        <activity android:name=".ARcoreDuck" />
+        <activity android:name=".ARcoreCamel" />
+        <activity android:name=".ARcoreSheep" />
+        <activity android:name=".ARcorePig" />
+        <activity android:name=".ARcoreGoat" />
+        <activity android:name=".ARcoreCow" />
+        <activity android:name=".ArcoreHen" />
+        <activity android:name=".ARcoreRhino" />
+        <activity android:name=".ArcoreJaguar" />
+        <activity android:name=".ARcoreDeer" />
+        <activity android:name=".ARcoreBear" />
+        <activity android:name=".Fruit" />
+        <activity android:name=".ARcoreStrawberry" />
+        <activity android:name=".ARcorePapaya" />
+        <activity android:name=".ARcoreBanana" />
+        <activity android:name=".ARcoreWaterMelon" />
+        <activity android:name=".ARcorePineapple" />
+        <activity android:name=".ARcoreCherry" />
+        <activity android:name=".Vapl2" />
+        <activity android:name=".ARcore" />
+        <activity android:name=".ARcoreB" />
+        <activity android:name=".ARcoreC" />
+        <activity android:name=".ArcoreD" />
+        <activity android:name=".ARcoreE" />
+        <activity android:name=".ARcoreF" />
+        <activity android:name=".ARcoreG" />
+        <activity android:name=".ARcoreH" />
+        <activity android:name=".ARcoreI" />
+        <activity android:name=".ARcoreJ" />
+        <activity android:name=".ARcoreK" />
+        <activity android:name=".ARcoreL" />
+        <activity android:name=".ARcoreM" />
+        <activity android:name=".ARcoreN" />
+        <activity android:name=".ARcoreO" />
+        <activity android:name=".ARcoreP" />
+        <activity android:name=".ARcoreQ" />
+        <activity android:name=".ARcoreR" />
+        <activity android:name=".ARcoreS" />
+        <activity android:name=".ARcoreT" />
+        <activity android:name=".ARcoreU" />
+        <activity android:name=".ARcoreV" />
+        <activity android:name=".ARcoreW" />
+        <activity android:name=".ARcoreX" />
+        <activity android:name=".ARcoreY" />
+        <activity android:name=".ARcoreZ" />
+        <activity android:name=".About" />
+        <activity android:name=".Alphabets" />
+        <activity android:name=".VisualAudioPracList" />
+        <activity android:name=".Number" />
+
+        <activity android:name=".QuizMainActivity"/>
+        <activity android:name=".QuizActivity"/>
+        <activity android:name=".ChangeQuestionsActivity"/>
+        <activity android:name=".SpelregelsActivity"/>
+        <activity android:name=".ResultActivity"/>
+        <activity android:name=".RateAppActivity"/>
+        <activity android:name=".QuestionDetailsActivity"/>
+        <activity android:name=".OverOnsActivity"/>
+        <activity android:name=".NewQuestionActivity"/>
+        <activity android:name=".deleteQuestionActivity"/>
+
+        <activity android:name=".WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.ar.core"
+            android:value="required" />
+    </application>
+
+</manifest>

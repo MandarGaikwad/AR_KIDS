@@ -1,0 +1,68 @@
+{
+  materials: [
+    {
+      name: '4CAF50',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.298039,
+            0.68627499999999997,
+            0.313726,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'DD9944',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.86666699999999997,
+            0.59999999999999998,
+            0.26666699999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/Pineapple_01.obj',
+    name: 'Pineapple_01',
+    recenter: 'root',
+    scale: 0.16839100000000001,
+  },
+  version: '0.54:2',
+}

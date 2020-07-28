@@ -1,0 +1,50 @@
+{
+  materials: [
+    {
+      name: 'Mat',
+      parameters: [
+        {
+          baseColor: '1385 Jeep',
+        },
+        {
+          baseColorTint: [
+            0.59999999999999998,
+            0.59999999999999998,
+            0.59999999999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/1385 Jeep.obj',
+    name: '1385 Jeep',
+    recenter: 'root',
+    scale: 0.025451000000000001,
+  },
+  samplers: [
+    {
+      file: 'sampledata\\1385 Jeep.png',
+      name: '1385 Jeep',
+      pipeline_name: '1385 Jeep.png',
+    },
+  ],
+  version: '0.54:2',
+}

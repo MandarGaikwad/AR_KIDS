@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">ARKIDS</string>
+
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="alpha">Alphabets</string>
+    <string name="num">Numbers</string>
+    <string name="number">Numbers</string>
+    <string name="looknlisten">Look And Listen Alphabets</string>
+    <string name="looknlisten1">Look And Listen Numbers</string>
+    <string name="practice">Live Practice</string>
+    <string name="aboutus">About Us</string>
+    <string name="intro">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="dev">Developed by:</string>
+    <string name="name">Nikhil Bachhav</string>
+    <string name="name1">Mandar Gaikwad</string>
+    <string name="name2">Chandan Prasad</string>
+    <string name="name3">Sagar Sawant</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">App Name</string>
+    <string name="slide_1_desc">Welcome to our App</string>
+
+    <string name="slide_2_title">Look n Learn</string>
+    <string name="slide_2_desc">Visualize your study using AR</string>
+
+    <string name="slide_3_title">Listen n Learn</string>
+    <string name="slide_3_desc">Best quality Audio will enhance your learning experience</string>
+
+    <string name="slide_4_title">Practice n Learn</string>
+    <string name="slide_4_desc">With the AR notepad practice as much as you can</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="wild">Wild Animals</string>
+    <string name="domestic">Domestic Animals</string>
+    <string name="written">Written Practice</string>
+
+
+    <string-array name="alphabets1">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+
+
+    <string-array name="number1">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="fruits">
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Banana</item>
+        <item>Grapes</item>
+        <item>Papaya</item>
+        <item>Strawberry</item>
+        <item>WaterMelon</item>
+        <item>Cherry</item>
+        <item>PineApple</item>
+    </string-array>
+
+    <string-array name="wildanim">
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Wolf</item>
+        <item>Jaguar</item>
+        <item>Elephant</item>
+        <item>Zebra</item>
+        <item>Rhino</item>
+        <item>Black Bear</item>
+        <item>Deer</item>
+        <item>Kangaroo</item>
+    </string-array>
+
+    <string-array name="domesticanim">
+        <item>Horse</item>
+        <item>Cat</item>
+        <item>Duck</item>
+        <item>Hen</item>
+        <item>Camel</item>
+        <item>Sheep</item>
+        <item>Pig</item>
+        <item>Cow</item>
+        <item>Goat</item>
+        <item>Dog</item>
+    </string-array>
+</resources>
+

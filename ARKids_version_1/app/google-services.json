@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "59087407576",
+    "firebase_url": "https://ar-kids-1147b.firebaseio.com",
+    "project_id": "ar-kids-1147b",
+    "storage_bucket": "ar-kids-1147b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59087407576:android:73ab4c15b8b00295cd0aad",
+        "android_client_info": {
+          "package_name": "mandar.gaikwad.arkids_version_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59087407576-6ldjs3nfgk127ftkl0lpium8l3u3um0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5MkROJP0KSbYh2OqQvG8djFxwvN3A0yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59087407576-6ldjs3nfgk127ftkl0lpium8l3u3um0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
