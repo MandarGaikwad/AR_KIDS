@@ -7,9 +7,10 @@ AR is defined as the combination of real scenes and virtual scene. It means the 
 Developer : Mandar Gaikwad [Sir Parashurambhau College]
 
 
-<p align="center">
+
 
 <b><h1>Screens :</h1></b><br>
+<p align="center">
   <img src="screenshots/1.jpg" width="256" height="455">
 
   <img src="screenshots/2.jpg" width="256" height="455">
