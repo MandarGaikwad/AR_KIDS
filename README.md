@@ -9,7 +9,7 @@ Developer : Mandar Gaikwad [Sir Parashurambhau College]
 
 <p align="center">
 
-<b>Screen 1:</b><br>
+<b><h1>Screen 1:</h1></b><br>
   <img src="screenshots/1.jpg" width="256" height="455">
 
 <b>Screen 2:</b><br>
