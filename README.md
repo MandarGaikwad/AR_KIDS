@@ -11,23 +11,23 @@ Developer : Mandar Gaikwad [Sir Parashurambhau College]
 
 <b><h1>Screens :</h1></b><br>
 <p>
-  <img src="screenshots/1.jpg" width="250" height="455">
+  <img src="screenshots/1.jpg" width="200" height="400">
 
-  <img src="screenshots/2.jpg" width="250" height="455">
+  <img src="screenshots/2.jpg" width="200" height="400">
 
-  <img src="screenshots/3.jpg" width="250" height="455">
+  <img src="screenshots/3.jpg" width="200" height="400">
 
-  <img src="screenshots/4.jpg" width="250" height="455">
+  <img src="screenshots/4.jpg" width="200" height="400">
 
-  <img src="screenshots/5.jpg" width="250" height="455">
+  <img src="screenshots/5.jpg" width="200" height="400">
 
-  <img src="screenshots/6.jpg" width="250" height="455">
+  <img src="screenshots/6.jpg" width="200" height="400">
 
-  <img src="screenshots/7.jpg" width="250" height="455">
+  <img src="screenshots/7.jpg" width="200" height="400">
 
-  <img src="screenshots/8.jpg" width="250" height="455">
+  <img src="screenshots/8.jpg" width="200" height="400">
 
-  <img src="screenshots/9.jpg" width="250" height="455">
+  <img src="screenshots/9.jpg" width="200" height="400">
 
-  <img src="screenshots/10.jpg" width="250" height="455">
+  <img src="screenshots/10.jpg" width="200" height="400">
 </p>
