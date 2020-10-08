@@ -8,37 +8,34 @@ Developer : Mandar Gaikwad [Sir Parashurambhau College]
 
 
 <p align="center">
-  <img src="screenshots/1.jpg" width="256" height="455">
-  <img src="screenshots/2.jpg" width="256" height="455">
-  <img src="screenshots/3.jpg" width="256" height="455">
-</p>
 
 Screen 1:
-![](screenshots/1.jpg)
+  <img src="screenshots/1.jpg" width="256" height="455">
 
 Screen 2:
-![](screenshots/2.jpg)
+  <img src="screenshots/2.jpg" width="256" height="455">
 
 Screen 3:
-![](screenshots/3.jpg)
+  <img src="screenshots/3.jpg" width="256" height="455">
 
 Screen 4:
-![](screenshots/4.jpg)
+  <img src="screenshots/4.jpg" width="256" height="455">
 
 Screen 5:
-![](screenshots/5.jpg)
+  <img src="screenshots/5.jpg" width="256" height="455">
 
 Screen 6:
-![](screenshots/6.jpg)
+  <img src="screenshots/6.jpg" width="256" height="455">
 
 Screen 7:
-![](screenshots/7.jpg)
+  <img src="screenshots/7.jpg" width="256" height="455">
 
 Screen 8:
-![](screenshots/8.jpg)
+  <img src="screenshots/8.jpg" width="256" height="455">
 
 Screen 9:
-![](screenshots/9.jpg)
+  <img src="screenshots/9.jpg" width="256" height="455">
 
 Screen 10:
-![](screenshots/10.jpg)
+  <img src="screenshots/10.jpg" width="256" height="455">
+</p>
